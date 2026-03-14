@@ -1,6 +1,6 @@
 # Sistemas Abiertos - Ingeniería en Sistemas Computacionales
 
-**Alumno:** [Tu Nombre Completo]  
+**Alumno:** [Jonathan Barragan OLguin]  
 **Matrícula:** 22ISIC072  
 
 ## Propósito
